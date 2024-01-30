@@ -1,2 +1,3 @@
 - Implementar LocalDateTime a cliente en vez de Date.
 - Validacion de formularios y modelos.
+- Crear vistas cliente
